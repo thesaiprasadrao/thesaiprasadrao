@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thesaiprasadrao
+- 👀 I’m interested in basically anything (as long as ot is tech)
+- 🌱 I’m currently learning data structures and algorithms and also working on web development skills
+- 💞️ I’m looking to collaborate .....
+- 📫 How to reach me .... insta , x . @thesaiprasadrao 
