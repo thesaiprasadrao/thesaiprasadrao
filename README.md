@@ -1,5 +1,5 @@
 # 💫 About Me:
-A frontend developer<br>
+A fullstack developer<br>
 
 
 ## 🌐 Socials:
