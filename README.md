@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
 # 💫 About Me:
 A fullstack developer<br>
 
@@ -15,5 +21,19 @@ A fullstack developer<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thesaiprasadrao&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thesaiprasadrao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/thesaiprasadrao/thesaiprasadrao/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
