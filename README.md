@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 💫 About Me:
 <div align="center">
   <img height="150" src="https://media.tenor.com/6fuZ0OmIcf4AAAAM/web-developer-website-creator.gif"  />
@@ -18,7 +22,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=thesaiprasadrao&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesaiprasadrao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=thesaiprasadrao&icon=0&color=4)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
